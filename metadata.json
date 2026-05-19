@@ -1,0 +1,6 @@
+{
+  "name": "Mahanand Portfolio",
+  "description": "Futuristic 3D personal portfolio website for Mahanand, a BCA student and frontend developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
